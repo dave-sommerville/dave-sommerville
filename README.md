@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/dave-sommerville/dave-sommerville/blob/main/src/find)
+![Banner](README.md)
 
 ## About Me
 Hi, I'm Dave! I'm a proud Winnipegger currently enrolled in Fullstack Software Development at Manitoba Institute of Trades and Technology.  
@@ -30,11 +30,11 @@ Under Construction
 ### Github Stats 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-sommerville&layout=compact&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dave-sommerville)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dave Sommerville's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dave-sommerville)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Say Hi 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=&labelColor=grey)](https://linkedin.com/in/dave-sommerville-2abb50326)
 
 
 [![Email](https://img.shields.io/badge/Email-dave.r.sommerville%40gmail.com-%23FF6F61?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dave.r.sommerville@gmail.com)
 
-ut=compact&theme=radical)
+
