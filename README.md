@@ -8,7 +8,7 @@ As a student, I'm dedicating myself to learning and getting all the hands-on exp
 ## Project Examples
 - [🌐 Portfolio Website](https://dave-sommerville.github.io/personal-webpage/): A more in-depth look at my skills and experience. 
 - [🎮 Script Scavengers](https://dave-sommerville.github.io/script-scavengers/): My most extensive game design... so far.
-- [👍 Fakebook](https://dave-sommerville.github.io/social-media-app/): My first social media site design. 
+- [👍 Fakebook](https://dave-sommerville.github.io/social-media-app/): My first social media site design.  
 Under Construction
 - [🚧 Unreal City](https://dave-sommerville.github.io/unreal-city/): My experimental space for web development and artistic expression. 
 ### What I'm working with now
