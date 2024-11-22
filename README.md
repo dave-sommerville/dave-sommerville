@@ -1,5 +1,5 @@
 
-![Banner](README.md)
+![Banner](./src/img/github-header-image.png)
 
 ## About Me
 Hi, I'm Dave! I'm a proud Winnipegger currently enrolled in Fullstack Software Development at Manitoba Institute of Trades and Technology.  
