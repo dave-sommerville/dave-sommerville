@@ -1,25 +1,40 @@
-# Hi, I'm Dave Sommerville 👋
 
-### 🚀 About Me:
-I'm a passionate developer with a love for urban design, creative web projects, and exploring new technologies. My interests include building engaging web applications, designing interactive games, and writing poetry.
+![Banner](https://github.com/dave-sommerville/dave-sommerville/blob/main/src/find)
 
-### 🔧 Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+## About Me
+Hi, I'm Dave! I'm a proud Winnipegger currently enrolled in Fullstack Software Development at Manitoba Institute of Trades and Technology.  
+I love making things, and now I love making things for the web. Although I've just begun my web dev journey, I'm already obsessed with the possibilities.  
+As a student, I'm dedicating myself to learning and getting all the hands-on experience I possibly can. If you're interested in my work or think I might be someone to collaborate with, please reach out and let me know!
+## Project Examples
+- [🌐 Portfolio Website](https://dave-sommerville.github.io/personal-webpage/): A more in-depth look at my skills and experience. 
+- [🎮 Script Scavengers](https://dave-sommerville.github.io/script-scavengers/): My most extensive game design... so far.
+- [👍 Fakebook](https://dave-sommerville.github.io/social-media-app/): My first social media site design. 
+Under Construction
+- [🚧 Unreal City](https://dave-sommerville.github.io/unreal-city/): My experimental space for web development and artistic expression. 
+### What I'm working with now
+![HTML](https://img.shields.io/badge/WEB-HTML-%2391D5E8?style=for-the-badge&logo=html5&logoColor=white&labelColor=grey)
 
-### 🌟 Featured Projects:
-- [🌐 Portfolio Website](https://github.com/dave-sommerville/portfolio): A modern developer portfolio with urban-inspired design elements.
-- [🎮 Interactive Games Room](https://github.com/dave-sommerville/games-room): A collection of fun, browser-based mini-games.
-- [📖 Poetry Gallery](https://github.com/dave-sommerville/poetry-gallery): A beautifully designed gallery showcasing original poetry.
+![CSS](https://img.shields.io/badge/WEB-CSS-%2391D5E8?style=for-the-badge&logo=css3&logoColor=white&labelColor=grey)
 
-### 📫 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/dave-sommerville)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/dave-sommerville)
+![JavaScript](https://img.shields.io/badge/CODE-JAVASCRIPT-%2391D5E8?style=for-the-badge&logo=javascript&logoColor=white&labelColor=grey)
 
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dave-sommerville&show_icons=true&theme=radical)
+![COFFEE ADDICTION](https://img.shields.io/badge/ADDICTION-grey?style=for-the-badge&logo=coffee&logoColor=white&labelColor=grey&color=%2391D5E8&label=COFFEE)
+
+### What I'm working with soon
+![Node.js](https://img.shields.io/badge/CODE-NODE.JS-%2391D5E8?style=for-the-badge&logo=node.js&logoColor=white&labelColor=grey)
+
+![Git](https://img.shields.io/badge/CODE-GIT-%2391D5E8?style=for-the-badge&logo=git&logoColor=white&labelColor=grey)
+
+![React](https://img.shields.io/badge/CODE-REACT-%2391D5E8?style=for-the-badge&logo=react&logoColor=white&labelColor=grey)
+
+### Github Stats 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-sommerville&layout=compact&theme=radical)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dave-sommerville)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Say Hi 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=&labelColor=grey)](https://linkedin.com/in/dave-sommerville-2abb50326)
+
+
+[![Email](https://img.shields.io/badge/Email-dave.r.sommerville%40gmail.com-%23FF6F61?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dave.r.sommerville@gmail.com)
+
+ut=compact&theme=radical)
