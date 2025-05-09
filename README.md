@@ -31,17 +31,10 @@ Future Plans
 - Grocery/Menu tracking API
 
 
-![COFFEE ADDICTION](https://img.shields.io/badge/ADDICTION-grey?style=for-the-badge&logo=coffee&logoColor=white&labelColor=grey&color=%2391D5E8&label=COFFEE)
-
-
-
 ### Github Stats 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-sommerville&layout=compact&theme=radical)
 
 [![Dave Sommerville's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dave-sommerville)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Say Hi 👋
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/dave-sommerville)
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](www.linkedin.com/in/dave-sommerville-2abb50326)
-[![Outlook](https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018–present%29.svg)](mailto:dave.r.sommerville@outlook.com)
-
-
+[![LinkedIn](/src/img/linkedin)](www.linkedin.com/in/dave-sommerville-2abb50326)
+[![Outlook](/src/img/email)](mailto:dave.r.sommerville@outlook.com)
