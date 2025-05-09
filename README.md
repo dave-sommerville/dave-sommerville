@@ -28,7 +28,7 @@ Future Plans
 - Minesweeper clone
 - Basic paint editor
 - Battleship clone (AI and multiplayer)
-- Experimenting with DOM unexplored DOM elements (camera, geolocation, touchscreen, etc)
+- Experimenting with unexplored DOM elements (camera, geolocation, touchscreen, etc)
 - Grocery/Menu tracking API
 
 
