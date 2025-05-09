@@ -36,5 +36,5 @@ Future Plans
 
 [![Dave Sommerville's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dave-sommerville)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Say Hi 👋
-[![LinkedIn](./src/img/linkedin)](www.linkedin.com/in/dave-sommerville-2abb50326)
-[![Outlook](./src/img/email)](mailto:dave.r.sommerville@outlook.com)
+[![LinkedIn](/src/img/linkedin)](www.linkedin.com/in/dave-sommerville-2abb50326)
+[![Outlook](/src/img/email)](mailto:dave.r.sommerville@outlook.com)
