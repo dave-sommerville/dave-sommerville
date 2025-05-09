@@ -1,4 +1,5 @@
 <img src="src/img/hexes.png" style="width: 100%; height: auto;">
+
 ## About Me
 Hello world, it's Dave. I'm a recent Fullstack Software Development graduate from Manitoba Institute of Trades and Technology in Winnipeg.  
 I have spent the past year with my imagination and my fingers going wild creating new things and turning script into reality. I'm in love. 
