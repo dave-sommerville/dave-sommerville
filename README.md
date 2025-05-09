@@ -35,12 +35,13 @@ Future Plans
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-sommerville&layout=compact&theme=radical)
 
 ### Say Hi 👋
-<a href="www.linkedin.com/in/dave-sommerville-2abb50326">
-  <img src="src/img/linkedin.svg" alt="LinkedIn" width="40"/>
+<a href="https://www.linkedin.com/in/dave-sommerville-2abb50326" style="display: inline-block;">
+  <img src="src/img/linkedin.svg" alt="" width="40" style="display: block;" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:dave.r.sommerville@outlook.com">
-  <img src="src/img/email.svg" alt="LinkedIn" width="40" style="margin-left: 10px;"/>
+&nbsp;&nbsp;
+<a href="mailto:dave.r.sommerville@outlook.com" style="display: inline-block;">
+  <img src="src/img/email.svg" alt="" width="40" style="display: block;" />
 </a>
+
 
 
