@@ -1,4 +1,4 @@
-
+[!Hex banner](src/img/hexes.svg)
 ## About Me
 Hello world, it's Dave. I'm a recent Fullstack Software Development graduate from Manitoba Institute of Trades and Technology in Winnipeg.  
 I have spent the past year with my imagination and my fingers going wild creating new things and turning script into reality. I'm in love. 
@@ -34,7 +34,6 @@ Future Plans
 ### Github Stats 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-sommerville&layout=compact&theme=radical)
 
-[![Dave Sommerville's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dave-sommerville)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Say Hi 👋
-[![LinkedIn](/src/img/linkedin)](www.linkedin.com/in/dave-sommerville-2abb50326)
-[![Outlook](/src/img/email)](mailto:dave.r.sommerville@outlook.com)
+[![LinkedIn](/src/img/linkedin.svg)](www.linkedin.com/in/dave-sommerville-2abb50326)
+[![Outlook](/src/img/email.svg)](mailto:dave.r.sommerville@outlook.com)
