@@ -2,57 +2,34 @@
 
 ## About Me
 Hello world, it's Dave. I'm a recent Fullstack Software Development graduate from Manitoba Institute of Trades and Technology in Winnipeg.  
-I have spent the past year with my imagination and my fingers going wild creating new things and turning script into reality. I'm in love. 
+I have spent the past year with my imagination and my fingers going wild creating new things and turning script into reality. The creative and professional potential is astonishing. 
+
 I'm proud to highlight most of my work on my personal site [DS Code](https://ds-code.ca) and my largest project (for now) is [Blackjack](https://dave-sommerville.github.io/blackjack/)
+
 I also welcome collaboration; so if you see anything in my future plans below or if you have a project of your own you'd like my spin on, 
 please reach out to me [here](mailto:dave.r.sommerville@outlook.com). 
 
 ### My Languages
-Proficient: 
-- HTML/CSS
-- JavaScript
-- C#
-- SQL
+Proficient: HTML/CSS, JavaScript, C#, SQL
 
-Familiar:
-- Git
-- Node.js
-- React
-- PHP
+Familiar: Git, Node.js, React, PHP
 
-### Vision Board
-Current Projects:
-- C# Console App Dungeon Crawler
-- Freelance Web Project
+### Horizon Projects
+I always have projects on the go (such as a comprehensive dungeon crawler console app), but I also always have more ideas on the horizon. So I'm calling them Horizon Projects. I'm always excited about the possibility of collaboration, so if you're interested in working on any of these with me, please reach out! 
 
-Future Plans
+####Basic Projects
 - Minesweeper clone
 - Basic paint editor
-- Battleship clone (AI and multiplayer)
-- Experimenting with unexplored DOM elements (camera, geolocation, touchscreen, etc)
 - Grocery/Menu tracking API
 
-#### My Favourite Resoures 
-🌟 Learning by Play
-- [SQLPD – SQL Puzzle Database](https://sqlpd.com/?ref=dailydev) - Practice SQL through interactive puzzle challenges.
-- [Teachable Machine by Google](https://teachablemachine.withgoogle.com/) - Train machine learning models with no coding required.
-- [Flexbox Froggy](https://flexboxfroggy.com/) - A fun game to learn CSS Flexbox layout.
+####Larger Explorations
+- Basic AI Exploration (Battleship / Cheat)
+- Experimenting with unexplored DOM elements (camera, geolocation, touchscreen, etc)
+- 3Script 1Project (creating a single yet to be determined program idea in three different programming languages)
+- A stylish and modern financial services website example with full MVC and Entity Framework architecture
+- A small, multi level side scroller game, implementing AI mechanics in code (using Unity or Godot)
 
-📚 Favorite Resources
-- [Flaticon](https://www.flaticon.com) – Free icons for your projects.  
-- [CSS Grid Generator](https://cssgridgenerator.io/) – Visual tool to create CSS Grid layouts.  
-- [ReadMe.so](https://readme.so/) – Easily create beautiful README files.  
-- [Shields.io](https://shields.io/badges) – Customizable badges for GitHub projects.  
-- [Figma](https://figma.com) – Collaborative interface design tool.
-
-💡 Project Inspiration
-- [Web Dev Mini Projects by Ayush Parikh](https://github.com/Ayushparikh-code/Web-dev-mini-projects)  
-  A great collection of beginner-friendly web development mini projects.
-
-#### Github Stats 📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-sommerville&layout=compact&theme=radical)
-
-## Say Hi 👋
+### Say Hi 👋
 <a href="https://www.linkedin.com/in/dave-sommerville-2abb50326" style="display: inline-block;">
   <img src="src/img/linkedin.svg" alt="" width="40" style="display: block;" />
 </a>
@@ -61,5 +38,6 @@ Future Plans
   <img src="src/img/email.svg" alt="" width="40" style="display: block;" />
 </a>
 
-
+### Github Stats 📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-sommerville&layout=compact&theme=radical)
 
