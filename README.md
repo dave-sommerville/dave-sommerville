@@ -17,12 +17,12 @@ Familiar: Git, Node.js, React, PHP
 ### Horizon Projects
 I always have projects on the go (such as a comprehensive dungeon crawler console app), but I also always have more ideas on the horizon. So I'm calling them Horizon Projects. I'm always excited about the possibility of collaboration, so if you're interested in working on any of these with me, please reach out! 
 
-####Basic Projects
+#### Basic Projects
 - Minesweeper clone
 - Basic paint editor
 - Grocery/Menu tracking API
 
-####Larger Explorations
+#### Larger Explorations
 - Basic AI Exploration (Battleship / Cheat)
 - Experimenting with unexplored DOM elements (camera, geolocation, touchscreen, etc)
 - 3Script 1Project (creating a single yet to be determined program idea in three different programming languages)
