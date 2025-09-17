@@ -30,16 +30,17 @@ To learn more about me, visit my website at [DS Code](https://ds-code.ca)
 MITT Future Now Expo Booth - [visit web app](https://dave-sommerville.github.io/code-breaker/)
 - Built and showcased interactive applications for Manitoba’s Future Now Expo, engaging 40+ potential students.
 - Gained experience in teamwork, rapid learning, and public-facing technical demonstrations.
+
 Winnipeg Open-Source Project https://github.com/dave-sommerville/theForks.io
 - Founded and moderated a local open-source initiative to encourage collaboration among Winnipeg developers.
 - Organized infrastructure, contributor guidelines, and outreach strategies to strengthen the local tech ecosystem
 
 ### Say Hi
 <a href="www.linkedin.com/in/dave-sommerville-2abb50326">
-  <img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="34" />
 </a>
 <a href="mailto:dave.r.sommerville@outlook.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/14247/14247398.png" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/14247/14247398.png" width="50" />
 </a>
 
 ### Github Stats
