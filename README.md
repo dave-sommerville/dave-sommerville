@@ -8,34 +8,39 @@ I've built a strong foundation and a growing portfolio that reflects my dedicati
 If you would like to start a conversation, email me [here](mailto:dave.r.sommerville@outlook.com) 
 
 To learn more about me, visit my website at [DS Code](https://ds-code.ca)
+[![DS Code Logo](https://ds-code.ca/image/screenshot.png)](https://ds-code.ca)
 
 ### Development Skills
-• HTML/CSS, JavaScript, C#, React
-• ASP.NET Core, REST APIs
-• SQL, MySQL, SQLite
-• Git, Node.js, PHP
-• VS Code, Visual Studio
-• NUnit, Moq
+- HTML/CSS, JavaScript, C#, React
+- ASP.NET Core, REST APIs
+- SQL, MySQL, SQLite
+- Git, Node.js, PHP
+- VS Code, Visual Studio
+- NUnit, Moq
 
 ### Tools & Automation
-• Power Automate
-• Jira
-• SOAP UI
-• PeopleSoft
-• SharePoint
-• Verint
+- Power Automate
+- Jira
+- SOAP UI
+- PeopleSoft
+- SharePoint
+- Verint
 
 ### Project Showcase
 MITT Future Now Expo Booth - [visit web app](https://dave-sommerville.github.io/code-breaker/)
-• Built and showcased interactive applications for Manitoba’s Future Now Expo, engaging 40+ potential students.
-• Gained experience in teamwork, rapid learning, and public-facing technical demonstrations.
+- Built and showcased interactive applications for Manitoba’s Future Now Expo, engaging 40+ potential students.
+- Gained experience in teamwork, rapid learning, and public-facing technical demonstrations.
 Winnipeg Open-Source Project https://github.com/dave-sommerville/theForks.io
-• Founded and moderated a local open-source initiative to encourage collaboration among Winnipeg developers.
-• Organized infrastructure, contributor guidelines, and outreach strategies to strengthen the local tech ecosystem
+- Founded and moderated a local open-source initiative to encourage collaboration among Winnipeg developers.
+- Organized infrastructure, contributor guidelines, and outreach strategies to strengthen the local tech ecosystem
 
 ### Say Hi
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/YOUR-USERNAME/)
-[![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:YOURNAME@youremail.com)
+<a href="www.linkedin.com/in/dave-sommerville-2abb50326">
+  <img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="40" />
+</a>
+<a href="mailto:dave.r.sommerville@outlook.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/14247/14247398.png" width="40" />
+</a>
 
 ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-sommerville&layout=compact&theme=radical)
