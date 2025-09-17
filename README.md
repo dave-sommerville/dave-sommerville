@@ -1,43 +1,42 @@
-<img src="src/img/hexes.png" style="width: 100%; height: auto;">
+[![DS Code Logo](https://ds-code.ca/image/site-preview.png)](https://ds-code.ca)
 
 ## About Me
-Hello world, it's Dave. I'm a recent Fullstack Software Development graduate from Manitoba Institute of Trades and Technology in Winnipeg.  
-I have spent the past year with my imagination and my fingers going wild creating new things and turning script into reality. The creative and professional potential is astonishing. 
+As a Software Development graduate from Manitoba Institute of Trades and Technology, I have learned the tools to shape the internet myself. From sleek front-end design to robust data structures and innovative software, I've gained a wealth of knowledge. While I'm new to the field, I've been busy putting that knowledge to use.
 
-I'm proud to highlight most of my work on my personal site [DS Code](https://ds-code.ca) and my largest project (for now) is [Blackjack](https://dave-sommerville.github.io/blackjack/)
+I've built a strong foundation and a growing portfolio that reflects my dedication and progress. In addition to my skills with coding and design, I bring creativity, a strong work ethic, and a knack for unique problem-solving to every project I take on. I am currently open and seeking work, however I'm also interested in inspiration or collaboration.
 
-I also welcome collaboration; so if you see anything in my future plans below or if you have a project of your own you'd like my spin on, 
-please reach out to me [here](mailto:dave.r.sommerville@outlook.com). 
+If you would like to start a conversation, email me [here](mailto:dave.r.sommerville@outlook.com) 
 
-### My Languages
-Proficient: HTML/CSS, JavaScript, C#, SQL
+To learn more about me, visit my website at [DS Code](https://ds-code.ca)
 
-Familiar: Git, Node.js, React, PHP
+### Development Skills
+• HTML/CSS, JavaScript, C#, React
+• ASP.NET Core, REST APIs
+• SQL, MySQL, SQLite
+• Git, Node.js, PHP
+• VS Code, Visual Studio
+• NUnit, Moq
 
-### Horizon Projects
-I always have projects on the go (such as a comprehensive dungeon crawler console app), but I also always have more ideas on the horizon. So I'm calling them Horizon Projects. I'm always excited about the possibility of collaboration, so if you're interested in working on any of these with me, please reach out! 
+### Tools & Automation
+• Power Automate
+• Jira
+• SOAP UI
+• PeopleSoft
+• SharePoint
+• Verint
 
-#### Basic Projects
-- Minesweeper clone
-- Basic paint editor
-- Grocery/Menu tracking API
+### Project Showcase
+MITT Future Now Expo Booth - [visit web app](https://dave-sommerville.github.io/code-breaker/)
+• Built and showcased interactive applications for Manitoba’s Future Now Expo, engaging 40+ potential students.
+• Gained experience in teamwork, rapid learning, and public-facing technical demonstrations.
+Winnipeg Open-Source Project https://github.com/dave-sommerville/theForks.io
+• Founded and moderated a local open-source initiative to encourage collaboration among Winnipeg developers.
+• Organized infrastructure, contributor guidelines, and outreach strategies to strengthen the local tech ecosystem
 
-#### Larger Explorations
-- Basic AI Exploration (Battleship / Cheat)
-- Experimenting with unexplored DOM elements (camera, geolocation, touchscreen, etc)
-- 3Script 1Project (creating a single yet to be determined program idea in three different programming languages)
-- A stylish and modern financial services website example with full MVC and Entity Framework architecture
-- A small, multi level side scroller game, implementing AI mechanics in code (using Unity or Godot)
+### Say Hi
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/YOUR-USERNAME/)
+[![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:YOURNAME@youremail.com)
 
-### Say Hi 👋
-<a href="https://www.linkedin.com/in/dave-sommerville-2abb50326" style="display: inline-block;">
-  <img src="src/img/linkedin.svg" alt="" width="40" style="display: block;" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:dave.r.sommerville@outlook.com" style="display: inline-block;">
-  <img src="src/img/email.svg" alt="" width="40" style="display: block;" />
-</a>
-
-### Github Stats 📈
+### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-sommerville&layout=compact&theme=radical)
 
